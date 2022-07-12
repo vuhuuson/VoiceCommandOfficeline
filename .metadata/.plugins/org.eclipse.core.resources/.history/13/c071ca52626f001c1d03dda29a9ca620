@@ -1,0 +1,10 @@
+.section .rodata
+.align 4
+
+.global uCYModel2Begin
+.global uCYModel2End
+
+uCYModel2Begin:
+.incbin "../src/Model/voice_command_offile_pack_withTxt.bin"
+uCYModel2End:
+

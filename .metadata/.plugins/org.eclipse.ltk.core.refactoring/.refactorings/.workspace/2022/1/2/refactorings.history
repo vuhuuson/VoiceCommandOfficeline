@@ -1,0 +1,4 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<session version="1.0">
+<refactoring comment="Delete resource &apos;Bkav_VC01/src/Model/Test-VC01_pack_withTxt.bin&apos;" deleteContents="false" description="Delete resource &apos;Bkav_VC01/src/Model/Test-VC01_pack_withTxt.bin&apos;" element1="/Bkav_VC01/src/Model/Test-VC01_pack_withTxt.bin" flags="7" id="org.eclipse.ltk.core.refactoring.delete.resources" resources="1" stamp="1641615030639"/>
+</session>

@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<section name="Workbench">
+	<section name="org.eclipse.ui.texteditor.FindReplaceDialog">
+		<item key="selection" value="COMMAND_STAGE_TIME_MIN"/>
+		<item key="wrap" value="true"/>
+		<item key="casesensitive" value="false"/>
+		<item key="wholeword" value="false"/>
+		<item key="incremental" value="false"/>
+		<item key="isRegEx" value="false"/>
+		<list key="findhistory">
+			<item value="COMMAND_STAGE_TIME_MIN"/>
+			<item value="s_nCommandRecognizeLimit"/>
+			<item value="COMMAND_STAGE_TIME_MAX"/>
+			<item value="COMMAND_STAGE_TIME_MAX_Bkav"/>
+			<item value="||"/>
+			<item value="stt_BKAV"/>
+			<item value="| "/>
+			<item value="s_nCommandRecordSample"/>
+			<item value="s_nCommandRecordSample_global"/>
+			<item value="int  nMapID"/>
+			<item value="int     nMapID"/>
+			<item value="nMapID"/>
+			<item value="RECORD_FRAME_SIZE"/>
+			<item value="swit"/>
+			<item value="static  int s_nCommandRecognizeLimit = COMMAND_STAGE_TIME_MIN;"/>
+		</list>
+		<list key="replacehistory">
+			<item value="1-TU-Bkav_VC0"/>
+		</list>
+	</section>
+	<section name="org.eclipse.ui.texteditor.FindReplaceDialog_dialogBounds">
+		<item key="DIALOG_X_ORIGIN" value="-1912"/>
+		<item key="DIALOG_Y_ORIGIN" value="12"/>
+		<item key="DIALOG_WIDTH" value="284"/>
+		<item key="DIALOG_HEIGHT" value="391"/>
+		<item key="DIALOG_FONT_NAME" value="1|Segoe UI|9.0|0|WINDOWS|1|-12|0|0|0|400|0|0|0|1|0|0|0|0|Segoe UI"/>
+	</section>
+</section>
