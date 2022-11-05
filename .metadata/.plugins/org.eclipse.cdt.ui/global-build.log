@@ -1,9 +1,0 @@
-Extracting support files...
-23:36:14 **** Incremental Build of configuration Debug for project Bkav_VC01 ****
-make -j8 all 
-'Invoking: GNU ARM Cross Print Size'
-arm-none-eabi-size --format=berkeley "Bkav_VC01.elf"
-   text	   data	    bss	    dec	    hex	filename
- 509380	    176	 117700	 627256	  99238	Bkav_VC01.elf
-'Finished building: Bkav_VC01.siz'
-' '
